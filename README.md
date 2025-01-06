@@ -1,2 +1,1 @@
-# CF7Testbed
-first repo
+this is my initial repository
