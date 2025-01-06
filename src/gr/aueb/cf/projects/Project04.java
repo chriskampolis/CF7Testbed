@@ -1,4 +1,4 @@
-package gr.aueb.cf.exercises;
+package gr.aueb.cf.projects;
 
 import java.util.Scanner;
 
